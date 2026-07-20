@@ -3,6 +3,7 @@ import sys
 from jinja2 import Template
 import matplotlib.pyplot as plt
 
+
 student_template = """
 <!DOCTYPE html>
 <html>
